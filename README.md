@@ -1,2 +1,2 @@
 # Hangman_game
-Implementation of Hangman Game
+Implementation of Hangman Game in python
